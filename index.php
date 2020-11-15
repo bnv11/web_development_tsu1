@@ -35,7 +35,7 @@
 	<title>Document</title>
 </head>
 <body>
-
+	Добавлен новый текст. Работа с git.
 </body>
 </html>
 
